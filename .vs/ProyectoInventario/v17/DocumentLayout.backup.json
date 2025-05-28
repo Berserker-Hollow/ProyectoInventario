@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\proyectoinventario\\proyectoinventario\\formagregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formagregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|C:\\Users\\rober\\Desktop\\ProyectoInventario\\proyectoinventario\\formactualizarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formactualizarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\proyectoinventario\\proyectoinventario\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|C:\\Users\\rober\\Desktop\\ProyectoInventario\\proyectoinventario\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|C:\\Users\\rober\\Desktop\\ProyectoInventario\\proyectoinventario\\formeliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formeliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|C:\\Users\\rober\\Desktop\\ProyectoInventario\\proyectoinventario\\formactualizarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formactualizarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|C:\\Users\\rober\\Desktop\\ProyectoInventario\\proyectoinventario\\formeliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formeliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|C:\\Users\\rober\\Desktop\\ProyectoInventario\\proyectoinventario\\formlistadoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formlistadoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\proyectoinventario\\proyectoinventario\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\proyectoinventario\\proyectoinventario\\formagregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formagregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|C:\\Users\\rober\\Desktop\\ProyectoInventario\\proyectoinventario\\formlistadoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formlistadoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormProductos.cs",
+              "RelativeDocumentMoniker": "ProyectoInventario\\FormProductos.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoInventario\\FormProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:43:05.674Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ba58fdf3-7af7-4b60-b69b-40ac68d83b75}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormProductos.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormProductos.cs",
+              "RelativeDocumentMoniker": "ProyectoInventario\\FormProductos.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormProductos.cs",
+              "RelativeToolTip": "ProyectoInventario\\FormProductos.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:22:25.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAgregarProductos.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormAgregarProductos.cs",
+              "RelativeDocumentMoniker": "ProyectoInventario\\FormAgregarProductos.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormAgregarProductos.cs",
+              "RelativeToolTip": "ProyectoInventario\\FormAgregarProductos.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:22:05.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormAgregarProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormAgregarProductos.cs",
+              "RelativeDocumentMoniker": "ProyectoInventario\\FormAgregarProductos.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormAgregarProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoInventario\\FormAgregarProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:05:28.321Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormListadoProductos.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormListadoProductos.cs",
+              "RelativeDocumentMoniker": "ProyectoInventario\\FormListadoProductos.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormListadoProductos.cs",
+              "RelativeToolTip": "ProyectoInventario\\FormListadoProductos.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAMwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:44:33.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormEliminarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormEliminarProducto.cs",
+              "RelativeDocumentMoniker": "ProyectoInventario\\FormEliminarProducto.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormEliminarProducto.cs",
+              "RelativeToolTip": "ProyectoInventario\\FormEliminarProducto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:44:18.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormActualizarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormActualizarProducto.cs",
+              "RelativeDocumentMoniker": "ProyectoInventario\\FormActualizarProducto.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormActualizarProducto.cs",
+              "RelativeToolTip": "ProyectoInventario\\FormActualizarProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:43:57.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormListadoProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormListadoProductos.cs",
+              "RelativeDocumentMoniker": "ProyectoInventario\\FormListadoProductos.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormListadoProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoInventario\\FormListadoProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:43:30.388Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormEliminarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormEliminarProducto.cs",
+              "RelativeDocumentMoniker": "ProyectoInventario\\FormEliminarProducto.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormEliminarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoInventario\\FormEliminarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:43:24.619Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormActualizarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormActualizarProducto.cs",
+              "RelativeDocumentMoniker": "ProyectoInventario\\FormActualizarProducto.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormActualizarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoInventario\\FormActualizarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:43:12.155Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "ProyectoInventario\\FormMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoInventario\\FormMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:43:03.607Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
