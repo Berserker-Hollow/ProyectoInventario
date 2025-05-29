@@ -117,5 +117,10 @@ namespace ProyectoInventario
                 MessageBox.Show($"Error al abrir FormMenuPrincipal: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void FormProductos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

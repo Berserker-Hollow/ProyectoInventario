@@ -91,7 +91,7 @@ namespace ProyectoInventario
 
             try
             {
-                using (SqlConnection conn = new SqlConnection("Server=ROBERTO;Database=InventarioDB;User Id=roberto;Password=12345;"))
+                using (SqlConnection conn = Conexion.ObtenerConexion())
                 {
                     conn.Open();
 
