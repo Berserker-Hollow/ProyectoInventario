@@ -46,5 +46,45 @@ namespace ProyectoInventario
                 MessageBox.Show("Código incorrecto o expirado.");
             }
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FormCodigoVerificacion_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnVerificar_Click_1(object sender, EventArgs e)
+        {
+            if (txtCodigo.Text.Trim() == SesionRecuperacion.CodigoVerificacion &&
+               DateTime.Now <= SesionRecuperacion.Expiracion)
+            {
+                FormCambiarContraseña cambio = new FormCambiarContraseña();
+                cambio.Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Código incorrecto o expirado.");
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

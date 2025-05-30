@@ -41,11 +41,13 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnRegresar = new System.Windows.Forms.Button();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -62,13 +64,14 @@
             // 
             // btnAgregar
             // 
-            this.btnAgregar.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnAgregar.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAgregar.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnAgregar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnAgregar.Font = new System.Drawing.Font("SimSun", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAgregar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnAgregar.Location = new System.Drawing.Point(35, 263);
+            this.btnAgregar.Location = new System.Drawing.Point(35, 351);
             this.btnAgregar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnAgregar.Name = "btnAgregar";
-            this.btnAgregar.Size = new System.Drawing.Size(152, 71);
+            this.btnAgregar.Size = new System.Drawing.Size(195, 71);
             this.btnAgregar.TabIndex = 11;
             this.btnAgregar.Text = "Agregar Producto";
             this.btnAgregar.UseVisualStyleBackColor = false;
@@ -76,13 +79,14 @@
             // 
             // btnVerListado
             // 
-            this.btnVerListado.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnVerListado.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnVerListado.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnVerListado.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnVerListado.Font = new System.Drawing.Font("SimSun", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnVerListado.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnVerListado.Location = new System.Drawing.Point(829, 246);
+            this.btnVerListado.Location = new System.Drawing.Point(724, 352);
             this.btnVerListado.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnVerListado.Name = "btnVerListado";
-            this.btnVerListado.Size = new System.Drawing.Size(184, 87);
+            this.btnVerListado.Size = new System.Drawing.Size(195, 71);
             this.btnVerListado.TabIndex = 13;
             this.btnVerListado.Text = "Ver listado de productos";
             this.btnVerListado.UseVisualStyleBackColor = false;
@@ -90,13 +94,14 @@
             // 
             // btnAvisoBajoStock
             // 
-            this.btnAvisoBajoStock.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnAvisoBajoStock.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAvisoBajoStock.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnAvisoBajoStock.Location = new System.Drawing.Point(552, 255);
+            this.btnAvisoBajoStock.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnAvisoBajoStock.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnAvisoBajoStock.Font = new System.Drawing.Font("SimSun", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAvisoBajoStock.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnAvisoBajoStock.Location = new System.Drawing.Point(492, 352);
             this.btnAvisoBajoStock.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnAvisoBajoStock.Name = "btnAvisoBajoStock";
-            this.btnAvisoBajoStock.Size = new System.Drawing.Size(185, 89);
+            this.btnAvisoBajoStock.Size = new System.Drawing.Size(195, 71);
             this.btnAvisoBajoStock.TabIndex = 15;
             this.btnAvisoBajoStock.Text = "Aviso de producto bajo";
             this.btnAvisoBajoStock.UseVisualStyleBackColor = false;
@@ -104,10 +109,11 @@
             // 
             // btnActualizar
             // 
-            this.btnActualizar.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnActualizar.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnActualizar.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnActualizar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnActualizar.Font = new System.Drawing.Font("SimSun", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnActualizar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnActualizar.Location = new System.Drawing.Point(717, 479);
+            this.btnActualizar.Location = new System.Drawing.Point(586, 497);
             this.btnActualizar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnActualizar.Name = "btnActualizar";
             this.btnActualizar.Size = new System.Drawing.Size(192, 60);
@@ -118,13 +124,14 @@
             // 
             // button5
             // 
-            this.button5.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.button5.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button5.Font = new System.Drawing.Font("SimSun", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button5.Location = new System.Drawing.Point(295, 263);
+            this.button5.Location = new System.Drawing.Point(274, 351);
             this.button5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(160, 71);
+            this.button5.Size = new System.Drawing.Size(195, 71);
             this.button5.TabIndex = 18;
             this.button5.Text = "Eliminar Producto";
             this.button5.UseVisualStyleBackColor = false;
@@ -133,7 +140,7 @@
             // pictureBox5
             // 
             this.pictureBox5.Image = global::ProyectoInventario.Properties.Resources.eliminar;
-            this.pictureBox5.Location = new System.Drawing.Point(299, 118);
+            this.pictureBox5.Location = new System.Drawing.Point(294, 222);
             this.pictureBox5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(152, 121);
@@ -144,7 +151,7 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(917, 460);
+            this.pictureBox4.Location = new System.Drawing.Point(786, 478);
             this.pictureBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(133, 79);
@@ -155,7 +162,7 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(571, 118);
+            this.pictureBox3.Location = new System.Drawing.Point(521, 222);
             this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(152, 121);
@@ -166,7 +173,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(847, 118);
+            this.pictureBox2.Location = new System.Drawing.Point(756, 223);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(152, 121);
@@ -177,7 +184,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(35, 118);
+            this.pictureBox1.Location = new System.Drawing.Point(61, 223);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(152, 121);
@@ -187,11 +194,11 @@
             // 
             // btnRegresar
             // 
-            this.btnRegresar.BackColor = System.Drawing.Color.Sienna;
+            this.btnRegresar.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnRegresar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnRegresar.Font = new System.Drawing.Font("Stencil", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRegresar.Font = new System.Drawing.Font("SimSun", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRegresar.ForeColor = System.Drawing.Color.White;
-            this.btnRegresar.Location = new System.Drawing.Point(16, 502);
+            this.btnRegresar.Location = new System.Drawing.Point(73, 520);
             this.btnRegresar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnRegresar.Name = "btnRegresar";
             this.btnRegresar.Size = new System.Drawing.Size(185, 37);
@@ -200,12 +207,26 @@
             this.btnRegresar.UseVisualStyleBackColor = false;
             this.btnRegresar.Click += new System.EventHandler(this.btnRegresar_Click);
             // 
+            // pictureBox6
+            // 
+            this.pictureBox6.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox6.ErrorImage = null;
+            this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
+            this.pictureBox6.InitialImage = null;
+            this.pictureBox6.Location = new System.Drawing.Point(35, 23);
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(265, 155);
+            this.pictureBox6.TabIndex = 27;
+            this.pictureBox6.TabStop = false;
+            // 
             // FormProductos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.InactiveCaption;
-            this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.ClientSize = new System.Drawing.Size(950, 620);
+            this.Controls.Add(this.pictureBox6);
             this.Controls.Add(this.btnRegresar);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.button5);
@@ -218,6 +239,7 @@
             this.Controls.Add(this.btnAgregar);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FormProductos";
             this.Text = "FormProductos";
@@ -227,6 +249,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -246,5 +269,6 @@
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.Button btnRegresar;
+        private System.Windows.Forms.PictureBox pictureBox6;
     }
 }
