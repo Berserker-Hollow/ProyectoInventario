@@ -41,3 +41,29 @@ C:\Users\rober\Desktop\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoI
 C:\Users\rober\Desktop\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormResumenVenta.resources
 C:\Users\rober\Desktop\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormVentas.resources
 C:\Users\rober\Desktop\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormVentasPorProducto.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\bin\Debug\ProyectoInventario.exe.config
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\bin\Debug\ProyectoInventario.exe
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\bin\Debug\ProyectoInventario.pdb
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.exe.config
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormCambiarContraseña.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormActualizarProducto.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormAgregarProducto.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormCodigoVerificacion.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormCorreoElectronico.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormDetallesVenta.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormEliminarProducto.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormListadoProductos.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormLogin.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormMenuPrincipal.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormNuevaVenta.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormProductos.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormRegistro.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormResumenVenta.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormVentas.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormVentasPorProducto.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.Properties.Resources.resources
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.csproj.GenerateResource.cache
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.exe
+C:\Users\rober\Desktop\Universidad\Tercer Semestre\Programacion 1\Proyecto final\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.pdb

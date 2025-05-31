@@ -15,7 +15,6 @@ namespace ProyectoInventario
         public FormCodigoVerificacion()
         {
             InitializeComponent();
-            InitializeComponent();
             this.StartPosition = FormStartPosition.Manual;
             this.Location = new Point(400, 200);
         }
@@ -35,20 +34,6 @@ namespace ProyectoInventario
             }
         }
 
-        private void btnVerificar_Click(object sender, EventArgs e)
-        {
-            if (txtCodigo.Text.Trim() == SesionRecuperacion.CodigoVerificacion &&
-                DateTime.Now <= SesionRecuperacion.Expiracion)
-            {
-                FormCambiarContraseña cambio = new FormCambiarContraseña();
-                cambio.Show();
-                this.Hide();
-            }
-            else
-            {
-                MessageBox.Show("Código incorrecto o expirado.");
-            }
-        }
 
         private void label1_Click(object sender, EventArgs e)
         {
@@ -77,7 +62,21 @@ namespace ProyectoInventario
 
         private void button1_Click(object sender, EventArgs e)
         {
+                try
+                {
+                    // Regenerar código y renovar tiempo
+                    SesionRecuperacion.CodigoVerificacion = new Random().Next(100000, 999999).ToString();
+                    SesionRecuperacion.Expiracion = DateTime.Now.AddMinutes(5);
 
+                    // Reenviar el código al correo guardado
+                    CorreoHelper.EnviarCodigo(SesionRecuperacion.CorreoUsuario, SesionRecuperacion.CodigoVerificacion);
+
+                    MessageBox.Show("Nuevo código enviado. Revisa tu correo.", "Reenvío exitoso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Error al reenviar el código: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
         }
 
         private void label2_Click(object sender, EventArgs e)
