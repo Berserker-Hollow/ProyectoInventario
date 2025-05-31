@@ -15,6 +15,9 @@ namespace ProyectoInventario
         public FormCodigoVerificacion()
         {
             InitializeComponent();
+            InitializeComponent();
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new Point(400, 200);
         }
 
         private void button2_Click(object sender, EventArgs e)

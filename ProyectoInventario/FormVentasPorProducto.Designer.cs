@@ -48,7 +48,7 @@
             this.tableLayoutPanel1.Controls.Add(this.btnRegresar, 0, 1);
             this.tableLayoutPanel1.Controls.Add(this.dgvVentasPorProducto, 0, 0);
             this.tableLayoutPanel1.Location = new System.Drawing.Point(277, 15);
-            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(4);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 2;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
@@ -59,13 +59,14 @@
             // btnRegresar
             // 
             this.btnRegresar.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.btnRegresar.BackColor = System.Drawing.Color.DarkSlateGray;
-            this.btnRegresar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRegresar.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnRegresar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnRegresar.Font = new System.Drawing.Font("SimSun", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRegresar.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.btnRegresar.Location = new System.Drawing.Point(441, 443);
-            this.btnRegresar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnRegresar.Location = new System.Drawing.Point(451, 463);
+            this.btnRegresar.Margin = new System.Windows.Forms.Padding(4);
             this.btnRegresar.Name = "btnRegresar";
-            this.btnRegresar.Size = new System.Drawing.Size(217, 87);
+            this.btnRegresar.Size = new System.Drawing.Size(196, 47);
             this.btnRegresar.TabIndex = 18;
             this.btnRegresar.Text = "Regresar";
             this.btnRegresar.UseVisualStyleBackColor = false;
@@ -78,7 +79,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvVentasPorProducto.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvVentasPorProducto.Location = new System.Drawing.Point(4, 4);
-            this.dgvVentasPorProducto.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dgvVentasPorProducto.Margin = new System.Windows.Forms.Padding(4);
             this.dgvVentasPorProducto.Name = "dgvVentasPorProducto";
             this.dgvVentasPorProducto.RowHeadersWidth = 51;
             this.dgvVentasPorProducto.Size = new System.Drawing.Size(1091, 316);
@@ -105,7 +106,7 @@
             this.label1.Location = new System.Drawing.Point(33, 191);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(157, 44);
+            this.label1.Size = new System.Drawing.Size(157, 43);
             this.label1.TabIndex = 34;
             this.label1.Text = "Ventas";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -118,7 +119,7 @@
             this.label2.Location = new System.Drawing.Point(76, 235);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(65, 44);
+            this.label2.Size = new System.Drawing.Size(65, 43);
             this.label2.TabIndex = 35;
             this.label2.Text = "De";
             // 
@@ -130,7 +131,7 @@
             this.label3.Location = new System.Drawing.Point(13, 279);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(203, 44);
+            this.label3.Size = new System.Drawing.Size(203, 43);
             this.label3.TabIndex = 36;
             this.label3.Text = "Produtos";
             // 
@@ -145,7 +146,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox6);
             this.Controls.Add(this.tableLayoutPanel1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormVentasPorProducto";
             this.Text = "FormVentasPorProducto";
             this.tableLayoutPanel1.ResumeLayout(false);

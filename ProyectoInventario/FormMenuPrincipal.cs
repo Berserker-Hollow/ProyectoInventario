@@ -9,9 +9,8 @@ namespace ProyectoInventario
         public FormMenuPrincipal()
         {
             InitializeComponent();
-
             this.StartPosition = FormStartPosition.Manual;
-            this.Location = new Point(200, 150);
+            this.Location = new Point(400, 200);
         }
         private void btnProductos_Click_1(object sender, EventArgs e)
         {

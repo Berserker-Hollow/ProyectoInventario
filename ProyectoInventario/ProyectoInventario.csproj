@@ -72,12 +72,6 @@
     <Compile Include="FormCodigoVerificacion.Designer.cs">
       <DependentUpon>FormCodigoVerificacion.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormConfiguraciones.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormConfiguraciones.Designer.cs">
-      <DependentUpon>FormConfiguraciones.cs</DependentUpon>
-    </Compile>
     <Compile Include="FormCorreoElectronico.cs">
       <SubType>Form</SubType>
     </Compile>

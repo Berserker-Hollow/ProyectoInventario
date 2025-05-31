@@ -5,42 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\proyectoinventario\\proyectoinventario\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\proyectoinventario\\proyectoinventario\\formnuevaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formnuevaventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\proyectoinventario\\proyectoinventario\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\proyectoinventario\\proyectoinventario\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\proyectoinventario\\proyectoinventario\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|C:\\Users\\rober\\Desktop\\ProyectoInventario\\proyectoinventario\\formagregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formagregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\proyectoinventario\\proyectoinventario\\formdetallesventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formdetallesventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\proyectoinventario\\proyectoinventario\\formresumenventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formresumenventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\proyectoinventario\\proyectoinventario\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\proyectoinventario\\proyectoinventario\\formventasporproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formventasporproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,86 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormAgregarProductos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormAgregarProductos.cs",
-              "RelativeDocumentMoniker": "ProyectoInventario\\FormAgregarProductos.cs",
-              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormAgregarProductos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoInventario\\FormAgregarProductos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T22:09:15.745Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormDetallesVenta.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormDetallesVenta.cs",
-              "RelativeDocumentMoniker": "ProyectoInventario\\FormDetallesVenta.cs",
-              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormDetallesVenta.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoInventario\\FormDetallesVenta.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T03:41:32.145Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormNuevaVenta.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormNuevaVenta.cs",
-              "RelativeDocumentMoniker": "ProyectoInventario\\FormNuevaVenta.cs",
-              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormNuevaVenta.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoInventario\\FormNuevaVenta.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T03:41:46.987Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FormVentasPorProducto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormVentasPorProducto.cs",
-              "RelativeDocumentMoniker": "ProyectoInventario\\FormVentasPorProducto.cs",
-              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormVentasPorProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoInventario\\FormVentasPorProducto.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T03:42:12.404Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormVentas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormVentas.cs",
-              "RelativeDocumentMoniker": "ProyectoInventario\\FormVentas.cs",
-              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormVentas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoInventario\\FormVentas.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T03:42:09.278Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormResumenVenta.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormResumenVenta.cs",
-              "RelativeDocumentMoniker": "ProyectoInventario\\FormResumenVenta.cs",
-              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormResumenVenta.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoInventario\\FormResumenVenta.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T03:42:07.361Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -148,44 +34,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormLogin.cs",
-              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormLogin.cs",
-              "RelativeDocumentMoniker": "ProyectoInventario\\FormLogin.cs",
-              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormLogin.cs",
-              "RelativeToolTip": "ProyectoInventario\\FormLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T04:17:19.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormLogin.cs",
-              "RelativeDocumentMoniker": "ProyectoInventario\\FormLogin.cs",
-              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormLogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoInventario\\FormLogin.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T04:08:59.369Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormMenuPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormMenuPrincipal.cs",
-              "RelativeDocumentMoniker": "ProyectoInventario\\FormMenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormMenuPrincipal.cs",
-              "RelativeToolTip": "ProyectoInventario\\FormMenuPrincipal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T04:07:56.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FormMenuPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormMenuPrincipal.cs",
@@ -193,7 +41,7 @@
               "ToolTip": "C:\\Users\\rober\\Desktop\\ProyectoInventario\\ProyectoInventario\\FormMenuPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "ProyectoInventario\\FormMenuPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T03:42:22.045Z",
+              "WhenOpened": "2025-05-31T05:41:48.352Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

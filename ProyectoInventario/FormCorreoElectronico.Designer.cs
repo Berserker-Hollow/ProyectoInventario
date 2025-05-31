@@ -112,6 +112,7 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormCorreoElectronico";
             this.Text = "FormCorreoElectronico";
+            this.Load += new System.EventHandler(this.FormCorreoElectronico_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.ResumeLayout(false);

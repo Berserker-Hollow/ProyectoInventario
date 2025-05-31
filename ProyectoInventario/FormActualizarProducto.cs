@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Data.SqlClient;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace ProyectoInventario
@@ -9,6 +10,8 @@ namespace ProyectoInventario
         public FormActualizarProducto()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new Point(400, 200);
         }
 
         private void btnBuscar_Click(object sender, EventArgs e)

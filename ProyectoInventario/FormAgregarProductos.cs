@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Data.SqlClient;
 using System.Windows.Forms;
+using System.Drawing;
 
 namespace ProyectoInventario
 {
@@ -9,6 +10,8 @@ namespace ProyectoInventario
         public FormAgregarProducto()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new Point(400, 200);
         }
 
         private void btnGuardar_Click_1(object sender, EventArgs e)

@@ -17,6 +17,9 @@ namespace ProyectoInventario
         public FormRegistro()
         {
             InitializeComponent();
+            InitializeComponent();
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new Point(400, 200);
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -242,6 +245,11 @@ namespace ProyectoInventario
                     }
                 }
             }
+        }
+
+        private void FormRegistro_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

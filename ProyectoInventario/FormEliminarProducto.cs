@@ -10,6 +10,8 @@ namespace ProyectoInventario
         public FormEliminarProducto()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new Point(400, 200);
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)
@@ -71,6 +73,11 @@ namespace ProyectoInventario
             this.Hide(); // Ocultamos el formulario actual
             FormProductos formProductos = new FormProductos(); // Creamos una nueva instancia
             formProductos.Show(); // Mostramos el menú de productos
+        }
+
+        private void FormEliminarProducto_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

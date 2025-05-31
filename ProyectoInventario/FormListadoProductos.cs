@@ -11,15 +11,16 @@ namespace ProyectoInventario
         public FormListadoProductos()
         {
             InitializeComponent();
-            CargarProductos(); // Carga automática al abrir el formulario
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new Point(400, 200);
+
+            CargarProductos(); 
             dgvProductos.BackgroundColor = Color.LightGray;
             dgvProductos.ForeColor = Color.Black;
 
-            // Estilo para las filas alternas
             dgvProductos.AlternatingRowsDefaultCellStyle.BackColor = Color.LightGray;
 
-            // Estilo para las cabeceras de columna
-            dgvProductos.ColumnHeadersDefaultCellStyle.BackColor = Color.FromArgb(76, 175, 80); // Verde claro
+            dgvProductos.ColumnHeadersDefaultCellStyle.BackColor = Color.FromArgb(76, 175, 80); 
             dgvProductos.ColumnHeadersDefaultCellStyle.ForeColor = Color.White;
         }
 

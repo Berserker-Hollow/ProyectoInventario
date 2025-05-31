@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Data;
 using System.Data.SqlClient;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace ProyectoInventario
@@ -10,6 +11,8 @@ namespace ProyectoInventario
         public FormResumenVenta()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new Point(400, 200);
             dtpFecha.Value = DateTime.Now; // Por defecto, muestra la fecha actual
         }
 

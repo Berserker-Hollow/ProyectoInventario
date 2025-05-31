@@ -46,7 +46,7 @@
             this.lblProductoID.Location = new System.Drawing.Point(170, 219);
             this.lblProductoID.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblProductoID.Name = "lblProductoID";
-            this.lblProductoID.Size = new System.Drawing.Size(287, 34);
+            this.lblProductoID.Size = new System.Drawing.Size(287, 33);
             this.lblProductoID.TabIndex = 2;
             this.lblProductoID.Text = "ID del Producto:";
             // 
@@ -126,6 +126,7 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormEliminarProducto";
             this.Text = "FormEliminarProducto";
+            this.Load += new System.EventHandler(this.FormEliminarProducto_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

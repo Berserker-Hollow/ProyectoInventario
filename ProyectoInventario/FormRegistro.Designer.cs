@@ -42,15 +42,15 @@
             this.label6 = new System.Windows.Forms.Label();
             this.btnRegresar = new System.Windows.Forms.Button();
             this.chkMostrar = new System.Windows.Forms.CheckBox();
+            this.btnRegistrar = new System.Windows.Forms.Button();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.button_close = new System.Windows.Forms.PictureBox();
             this.button_minimize = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.btnRegistrar = new System.Windows.Forms.Button();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.button_close)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.button_minimize)).BeginInit();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -192,6 +192,34 @@
             this.chkMostrar.UseVisualStyleBackColor = true;
             this.chkMostrar.CheckedChanged += new System.EventHandler(this.chkMostrar_CheckedChanged);
             // 
+            // btnRegistrar
+            // 
+            this.btnRegistrar.BackColor = System.Drawing.Color.Black;
+            this.btnRegistrar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnRegistrar.Font = new System.Drawing.Font("SimSun", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRegistrar.ForeColor = System.Drawing.Color.White;
+            this.btnRegistrar.Location = new System.Drawing.Point(385, 544);
+            this.btnRegistrar.Margin = new System.Windows.Forms.Padding(4);
+            this.btnRegistrar.Name = "btnRegistrar";
+            this.btnRegistrar.Size = new System.Drawing.Size(196, 47);
+            this.btnRegistrar.TabIndex = 23;
+            this.btnRegistrar.Text = "Registrar";
+            this.btnRegistrar.UseVisualStyleBackColor = false;
+            this.btnRegistrar.Click += new System.EventHandler(this.btnRegistrar_Click_1);
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox4.ErrorImage = null;
+            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.InitialImage = null;
+            this.pictureBox4.Location = new System.Drawing.Point(13, 108);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(265, 155);
+            this.pictureBox4.TabIndex = 25;
+            this.pictureBox4.TabStop = false;
+            // 
             // button_close
             // 
             this.button_close.Image = ((System.Drawing.Image)(resources.GetObject("button_close.Image")));
@@ -228,34 +256,6 @@
             this.panel1.Size = new System.Drawing.Size(950, 58);
             this.panel1.TabIndex = 0;
             // 
-            // btnRegistrar
-            // 
-            this.btnRegistrar.BackColor = System.Drawing.Color.Black;
-            this.btnRegistrar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnRegistrar.Font = new System.Drawing.Font("SimSun", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRegistrar.ForeColor = System.Drawing.Color.White;
-            this.btnRegistrar.Location = new System.Drawing.Point(385, 544);
-            this.btnRegistrar.Margin = new System.Windows.Forms.Padding(4);
-            this.btnRegistrar.Name = "btnRegistrar";
-            this.btnRegistrar.Size = new System.Drawing.Size(196, 47);
-            this.btnRegistrar.TabIndex = 23;
-            this.btnRegistrar.Text = "Registrar";
-            this.btnRegistrar.UseVisualStyleBackColor = false;
-            this.btnRegistrar.Click += new System.EventHandler(this.btnRegistrar_Click_1);
-            // 
-            // pictureBox4
-            // 
-            this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox4.ErrorImage = null;
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.InitialImage = null;
-            this.pictureBox4.Location = new System.Drawing.Point(13, 108);
-            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(265, 155);
-            this.pictureBox4.TabIndex = 25;
-            this.pictureBox4.TabStop = false;
-            // 
             // FormRegistro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -282,10 +282,11 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormRegistro";
             this.Text = "FormRegistro";
+            this.Load += new System.EventHandler(this.FormRegistro_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.button_close)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.button_minimize)).EndInit();
             this.panel1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -305,10 +306,10 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Button btnRegresar;
         private System.Windows.Forms.CheckBox chkMostrar;
+        private System.Windows.Forms.Button btnRegistrar;
+        private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.PictureBox button_close;
         private System.Windows.Forms.PictureBox button_minimize;
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Button btnRegistrar;
-        private System.Windows.Forms.PictureBox pictureBox4;
     }
 }

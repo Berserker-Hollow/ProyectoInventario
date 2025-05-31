@@ -15,6 +15,8 @@ namespace ProyectoInventario
         public FormVentas()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new Point(400, 200);
         }
 
         private void FormVentas_Load(object sender, EventArgs e)

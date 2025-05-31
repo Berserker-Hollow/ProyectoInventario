@@ -93,16 +93,16 @@
             // btnCerrarSesion
             // 
             this.btnCerrarSesion.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.btnCerrarSesion.BackColor = System.Drawing.Color.Sienna;
+            this.btnCerrarSesion.BackColor = System.Drawing.Color.Black;
             this.btnCerrarSesion.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnCerrarSesion.Font = new System.Drawing.Font("Stencil", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCerrarSesion.Font = new System.Drawing.Font("SimSun", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCerrarSesion.ForeColor = System.Drawing.Color.White;
-            this.btnCerrarSesion.Location = new System.Drawing.Point(437, 669);
+            this.btnCerrarSesion.Location = new System.Drawing.Point(437, 605);
             this.btnCerrarSesion.Margin = new System.Windows.Forms.Padding(4);
             this.btnCerrarSesion.Name = "btnCerrarSesion";
             this.btnCerrarSesion.Size = new System.Drawing.Size(263, 49);
             this.btnCerrarSesion.TabIndex = 19;
-            this.btnCerrarSesion.Text = "CERRAR SESION";
+            this.btnCerrarSesion.Text = "Cerrar Sesion";
             this.btnCerrarSesion.UseVisualStyleBackColor = false;
             this.btnCerrarSesion.Click += new System.EventHandler(this.btnCerrarSesion_Click_1);
             // 
@@ -112,10 +112,10 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("SimSun", 25.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(432, 70);
+            this.label1.Location = new System.Drawing.Point(444, 71);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(272, 88);
+            this.label1.Size = new System.Drawing.Size(249, 86);
             this.label1.TabIndex = 1;
             this.label1.Text = "Bienvenido Usuario";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -157,12 +157,12 @@
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 377F));
             this.tableLayoutPanel1.Controls.Add(this.pictureBox1, 0, 1);
-            this.tableLayoutPanel1.Controls.Add(this.btnCerrarSesion, 1, 3);
             this.tableLayoutPanel1.Controls.Add(this.btnVentas, 0, 2);
             this.tableLayoutPanel1.Controls.Add(this.pictureBox3, 2, 1);
             this.tableLayoutPanel1.Controls.Add(this.btnProductos, 2, 2);
             this.tableLayoutPanel1.Controls.Add(this.pictureBox6, 1, 1);
             this.tableLayoutPanel1.Controls.Add(this.label1, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.btnCerrarSesion, 1, 2);
             this.tableLayoutPanel1.Location = new System.Drawing.Point(16, 13);
             this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(4);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -183,7 +183,7 @@
             this.ClientSize = new System.Drawing.Size(1167, 750);
             this.Controls.Add(this.tableLayoutPanel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormMenuPrincipal";
             this.Text = "FormMenuPrincipal";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();

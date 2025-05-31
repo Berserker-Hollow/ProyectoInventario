@@ -16,6 +16,8 @@ namespace ProyectoInventario
         public FormCambiarContraseña()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new Point(400, 200);
         }
 
         private void txtContraseña_Nueva_TextChanged(object sender, EventArgs e)

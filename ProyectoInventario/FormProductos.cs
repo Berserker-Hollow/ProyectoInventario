@@ -16,6 +16,8 @@ namespace ProyectoInventario
         public FormProductos()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new Point(400, 200);
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)

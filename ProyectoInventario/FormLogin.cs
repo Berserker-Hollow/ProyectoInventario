@@ -17,7 +17,7 @@ namespace ProyectoInventario
         {
             InitializeComponent();
             this.StartPosition = FormStartPosition.Manual;
-            this.Location = new Point(200, 150);
+            this.Location = new Point(400, 200);
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
