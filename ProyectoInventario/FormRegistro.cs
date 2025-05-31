@@ -17,7 +17,6 @@ namespace ProyectoInventario
         public FormRegistro()
         {
             InitializeComponent();
-            InitializeComponent();
             this.StartPosition = FormStartPosition.Manual;
             this.Location = new Point(400, 200);
         }

@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\rober\\Desktop\\Universidad\\Tercer Semestre\\Programacion 1\\Proyecto final\\ProyectoInventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\universidad\\tercer semestre\\programacion 1\\proyecto final\\proyectoinventario\\proyectoinventario\\formcodigoverificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formcodigoverificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\universidad\\tercer semestre\\programacion 1\\proyecto final\\proyectoinventario\\proyectoinventario\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\universidad\\tercer semestre\\programacion 1\\proyecto final\\proyectoinventario\\proyectoinventario\\formcodigoverificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|c:\\users\\rober\\desktop\\universidad\\tercer semestre\\programacion 1\\proyecto final\\proyectoinventario\\proyectoinventario\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|C:\\Users\\rober\\Desktop\\Universidad\\Tercer Semestre\\Programacion 1\\Proyecto final\\ProyectoInventario\\proyectoinventario\\formcodigoverificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B26D814E-1899-4B61-AB1C-57E5B0E82CDB}|ProyectoInventario\\ProyectoInventario.csproj|solutionrelative:proyectoinventario\\formcodigoverificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +42,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\Universidad\\Tercer Semestre\\Programacion 1\\Proyecto final\\ProyectoInventario\\ProyectoInventario\\FormRegistro.cs",
+              "RelativeDocumentMoniker": "ProyectoInventario\\FormRegistro.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\Universidad\\Tercer Semestre\\Programacion 1\\Proyecto final\\ProyectoInventario\\ProyectoInventario\\FormRegistro.cs",
+              "RelativeToolTip": "ProyectoInventario\\FormRegistro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:21:25.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FormRegistro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\Universidad\\Tercer Semestre\\Programacion 1\\Proyecto final\\ProyectoInventario\\ProyectoInventario\\FormRegistro.cs",
+              "RelativeDocumentMoniker": "ProyectoInventario\\FormRegistro.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\Universidad\\Tercer Semestre\\Programacion 1\\Proyecto final\\ProyectoInventario\\ProyectoInventario\\FormRegistro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoInventario\\FormRegistro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:21:23.021Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FormCodigoVerificacion.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\Universidad\\Tercer Semestre\\Programacion 1\\Proyecto final\\ProyectoInventario\\ProyectoInventario\\FormCodigoVerificacion.cs",
               "RelativeDocumentMoniker": "ProyectoInventario\\FormCodigoVerificacion.cs",
@@ -47,19 +76,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T07:06:37.471Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormCodigoVerificacion.cs",
-              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\Universidad\\Tercer Semestre\\Programacion 1\\Proyecto final\\ProyectoInventario\\ProyectoInventario\\FormCodigoVerificacion.cs",
-              "RelativeDocumentMoniker": "ProyectoInventario\\FormCodigoVerificacion.cs",
-              "ToolTip": "C:\\Users\\rober\\Desktop\\Universidad\\Tercer Semestre\\Programacion 1\\Proyecto final\\ProyectoInventario\\ProyectoInventario\\FormCodigoVerificacion.cs",
-              "RelativeToolTip": "ProyectoInventario\\FormCodigoVerificacion.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T06:45:30.454Z",
-              "EditorCaption": ""
             }
           ]
         }
