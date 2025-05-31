@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
+using System.Drawing;
 
 namespace ProyectoInventario
 {
@@ -8,6 +9,9 @@ namespace ProyectoInventario
         public FormMenuPrincipal()
         {
             InitializeComponent();
+
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new Point(200, 150);
         }
         private void btnProductos_Click_1(object sender, EventArgs e)
         {
@@ -26,34 +30,8 @@ namespace ProyectoInventario
 
         private void btnReportes_Click_1(object sender, EventArgs e)
         {
-            try
-            {
-                this.Hide();
-                FormReportes frmReportes = new FormReportes();
-                frmReportes.Show();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Error al abrir Reportes: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-
+      
         }
-
-        private void btnConfiguraciones_Click_1(object sender, EventArgs e)
-        {
-            try
-            {
-                this.Hide();
-                FormConfiguraciones formConfig = new FormConfiguraciones();
-                formConfig.Show();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Error al abrir Configuraciones: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-
-        }
-
         private void btnCerrarSesion_Click_1(object sender, EventArgs e)
         {
             try
@@ -71,6 +49,25 @@ namespace ProyectoInventario
             {
                 MessageBox.Show($"Error al cerrar sesión: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+
+        }
+
+        private void btnVentas_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                this.Hide();
+                FormVentas formVentas = new FormVentas();
+                formVentas.Show();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error al abrir Ventas: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
 
         }
     }

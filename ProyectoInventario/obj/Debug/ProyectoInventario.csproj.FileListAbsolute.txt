@@ -36,3 +36,8 @@ C:\Users\rober\Desktop\ProyectoInventario\ProyectoInventario\bin\Debug\ProyectoI
 C:\Users\rober\Desktop\ProyectoInventario\ProyectoInventario\bin\Debug\ProyectoInventario.exe
 C:\Users\rober\Desktop\ProyectoInventario\ProyectoInventario\bin\Debug\ProyectoInventario.pdb
 C:\Users\rober\Desktop\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.exe.config
+C:\Users\rober\Desktop\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormDetallesVenta.resources
+C:\Users\rober\Desktop\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormNuevaVenta.resources
+C:\Users\rober\Desktop\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormResumenVenta.resources
+C:\Users\rober\Desktop\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormVentas.resources
+C:\Users\rober\Desktop\ProyectoInventario\ProyectoInventario\obj\Debug\ProyectoInventario.FormVentasPorProducto.resources

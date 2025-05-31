@@ -16,6 +16,8 @@ namespace ProyectoInventario
         public FormLogin()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new Point(200, 150);
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -102,6 +104,11 @@ namespace ProyectoInventario
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
         }

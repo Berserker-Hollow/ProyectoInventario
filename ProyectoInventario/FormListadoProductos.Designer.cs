@@ -59,7 +59,7 @@
             this.btnVolver.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.btnVolver.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnVolver.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnVolver.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnVolver.Font = new System.Drawing.Font("SimSun", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnVolver.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.btnVolver.Location = new System.Drawing.Point(426, 505);
             this.btnVolver.Margin = new System.Windows.Forms.Padding(4);
@@ -77,8 +77,8 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.tableLayoutPanel1.ColumnCount = 1;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel1.Controls.Add(this.dgvProductos, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.btnVolver, 0, 1);
+            this.tableLayoutPanel1.Controls.Add(this.dgvProductos, 0, 0);
             this.tableLayoutPanel1.Location = new System.Drawing.Point(286, 13);
             this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(4);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -115,6 +115,7 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormListadoProductos";
             this.Text = "FormListadoProductos";
+            this.Load += new System.EventHandler(this.FormListadoProductos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvProductos)).EndInit();
             this.tableLayoutPanel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
